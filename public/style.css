@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url("assets/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgb(241, 244, 244);
+    border-radius: 10px;
+}
+
+.center-div {
+    padding-top: 10%;
+}
+
+.btn.btn-success {
+    padding: .4em 2em;
+}
+
+form {
+    padding: 0 3em;
+}
+
+#login .title > span {
+    font-size: .8em;
+}
